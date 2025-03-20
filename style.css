@@ -1,0 +1,55 @@
+.p{
+    background-color: rgb(159, 198, 224);
+    font-size: 20px;
+    border-radius: 30px;
+    border: 4px solid red;
+    text-align: center;
+}
+.span {
+    color: red;
+}
+.li{
+    color: green;
+    font-size: 18px;
+}
+.li1{
+    color: red;
+}
+.li2 {
+    color: yellow;
+}
+.li3{
+    color: green;
+}
+.li4{
+    color: gray;
+}
+.caption{
+    background-color: yellow;
+    text-align: center;
+    width: 880px;
+}
+.tr{
+    background-color: red;
+}
+.td{
+    background-color: green;
+}
+.td1{
+    background-color: blueviolet;
+    text-align: center;
+}
+.td2{
+    background-color: red;
+}
+.button {
+    height: 30px;
+    width: 200px;
+    background-color: rgb(155, 237, 123);
+}
+.img {
+    width: 600px;
+}
+.img1 {
+    width: 600px;
+}
